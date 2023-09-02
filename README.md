@@ -24,5 +24,5 @@ A time-series metabolic data set (Arabidopis thaliana) was obtained from Kim, Ja
 
 Additional biological data (common metabolic pathways) was obtained (for Arabidopsis thaliana) from the BioCyC database using the PythonCyC package.
 
-A **Data folder contains the required data files.
+A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run **Pathway Tools** (part of the BioCyC server).
 
