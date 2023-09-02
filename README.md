@@ -38,7 +38,7 @@ Additional comments are provided in the respective _.ipny_ files.
 ## Packages
 SOMs are mplemented using the minisom package (https://github.com/JustGlowing/minisom).
 
-A significant number of Python packages are used so it is recommended that a virtual environment like _Anaconda_ is used. A YAML file (environment.yaml) is provided in the repository to help with the construction of an approprate environment. The appropriate environment can thenbe created with the command _conda env create -f environment.yml-
+A significant number of Python packages are used so it is recommended that a virtual environment like _Anaconda_ is used. A YAML file (environment.yaml) is provided in the repository to help with the construction of an approprate environment. The appropriate environment can thenbe created with the command _conda env create -f environment.yml_
 
 
 
