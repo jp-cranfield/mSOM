@@ -33,5 +33,12 @@ The Conevntional Processing Workflow is implemented in _DataExploration.ipny_ an
 
 The SOM clustering and Biological Connectivity workflow is implemented in _SOMClustering.ipny_, _CommonPathwayData.ipny_ and _BiologicalConnectivity.ipny_
 
+Additional comments are provided in the respective _.ipny_ files.
+
+## Packages
+SOMs are mplemented using the minisom package (https://github.com/JustGlowing/minisom).
+
+A significant number of Python packages are used so it is recommended that a virtual environment like _Anaconda_ is used. A YAML file is provided in the repository to help with the construction of an approprate environment.
+
 
 
