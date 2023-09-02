@@ -26,12 +26,12 @@ A time-series metabolic data set (Arabidopis thaliana) was obtained from Kim, Ja
 
 Additional biological data (common metabolic pathways) was obtained (for Arabidopsis thaliana) from the BioCyC database using the PythonCyC package.
 
-A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run * *Pathway Tools* * (part of the BioCyC server).
+A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run _Pathway Tools_ (part of the BioCyC server).
 
 ## Jupyter Notebooks
-The Conevntional Processing Workflow is implemented in * *DataExploration.ipny* * and * * Advanced KmeansAnalysis.ipny* *
+The Conevntional Processing Workflow is implemented in _DataExploration.ipny_ and _Advanced KmeansAnalysis.ipny_
 
-The SOM clustering and Biological Connectivity workflow is implemented in * *SOMClustering.ipny* *, * *CommonPathwayData.ipny* * and * *BiologicalConnectivity.ipny* *
+The SOM clustering and Biological Connectivity workflow is implemented in _SOMClustering.ipny_, _CommonPathwayData.ipny_ and _BiologicalConnectivity.ipny_
 
 
 
