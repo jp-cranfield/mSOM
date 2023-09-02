@@ -1,3 +1,7 @@
+# minisom.py
+#
+# Source: https://github.com/JustGlowing/minisom
+
 from numpy import (array, unravel_index, nditer, linalg, random, subtract, max,
                    power, exp, zeros, ones, arange, outer, meshgrid, dot,
                    logical_and, mean, cov, argsort, linspace, transpose,
