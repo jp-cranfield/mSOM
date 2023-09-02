@@ -22,5 +22,7 @@ The workflow is illustrated below. It consists of a Conventional Processing Work
 
 A time-series metabolic data set (Arabidopis thaliana) was obtained from Kim, Jae Kwang & Cho, Myoung & Baek, Hyung-Jin & Ryu, Tae & Yu, Chang & Kim, Myong & Fukusaki, Eiichiro & Kobayashi, Akio. (2007). Analysis of metabolite profile data using batch-learning self-organizing maps. Journal of Plant Biology. 50. 517-521. 10.1007/BF03030693. 
 
-Additional biological data (common metabolic pathways) was obtained from the BioCyC database using the PythonCyC package.
+Additional biological data (common metabolic pathways) was obtained (for Arabidopsis thaliana) from the BioCyC database using the PythonCyC package.
+
+A **Data folder contains the required data files.
 
