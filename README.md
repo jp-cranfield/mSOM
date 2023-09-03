@@ -26,7 +26,7 @@ A time-series metabolic data set (Arabidopis thaliana) was obtained from Kim, Ja
 
 Additional biological data (common metabolic pathways) was obtained (for Arabidopsis thaliana) from the BioCyC database using the PythonCyC package.
 
-A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run _Pathway Tools_ (part of the BioCyC server).
+A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run _Pathway-tools_ (part of the BioCyC server).
 
 ## Jupyter Notebooks
 The Conevntional Processing Workflow is implemented in _DataExploration.ipny_ and _Advanced KmeansAnalysis.ipny_
@@ -34,6 +34,11 @@ The Conevntional Processing Workflow is implemented in _DataExploration.ipny_ an
 The SOM clustering and Biological Connectivity workflow is implemented in _SOMClustering.ipny_, _CommonPathwayData.ipny_ and _BiologicalConnectivity.ipny_
 
 Additional comments are provided in the respective _.ipny_ files.
+
+## BioCyC
+If you want to run _CommonPathway.ipny_ you will need to get a licence for BioCyC from https://biocyc.org/download-bundle.shtml and install it locally (or on a server). You'll also need to download the the PGDB file for Arabidopsis thaliana (or any other species). Instructions for installing _pathway-tools_ can be found at https://biocyc.org/download.shtml
+
+Alternatively the common pathway data file for Arabidopsis thaliana is included in the **Data** folder.
 
 ## Packages
 SOMs are mplemented using the minisom package (https://github.com/JustGlowing/minisom).
