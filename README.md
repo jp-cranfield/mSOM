@@ -24,6 +24,8 @@ The workflow is illustrated below. It consists of a Conventional Processing Work
 ## Data sets
 A time-series metabolic data set (Arabidopis thaliana) was obtained from Kim, Jae Kwang & Cho, Myoung & Baek, Hyung-Jin & Ryu, Tae & Yu, Chang & Kim, Myong & Fukusaki, Eiichiro & Kobayashi, Akio. (2007). Analysis of metabolite profile data using batch-learning self-organizing maps. Journal of Plant Biology. 50. 517-521. 10.1007/BF03030693. 
 
+Any other metabolic time-series data file can be used. The format is a CSV file with a metabolite per row, and each row contains a number of readings at specified points in time.
+
 Additional biological data (common metabolic pathways) was obtained (for Arabidopsis thaliana) from the BioCyC database using the PythonCyC package.
 
 A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run _Pathway-tools_ (part of the BioCyC server).
