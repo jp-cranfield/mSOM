@@ -31,7 +31,7 @@ Additional biological data (common metabolic pathways) was obtained (for Arabido
 A **Data** folder contains the required data files. Including the additional biological data if you don't want to install and run _Pathway-tools_ (part of the BioCyC server).
 
 ## Jupyter Notebooks
-The Conevntional Processing Workflow is implemented in _DataExploration.ipny_ and _Advanced KmeansAnalysis.ipny_
+The Conventional Processing Workflow is implemented in _DataExploration.ipny_ and _Advanced KmeansAnalysis.ipny_
 
 The SOM clustering and Biological Connectivity workflow is implemented in _SOMClustering.ipny_, _CommonPathwayData.ipny_ and _BiologicalConnectivity.ipny_
 
@@ -43,9 +43,9 @@ If you want to run _CommonPathway.ipny_ you will need to get a licence for BioCy
 Alternatively the common pathway data file for Arabidopsis thaliana is included in the **Data** folder.
 
 ## Packages
-SOMs are mplemented using the minisom package (https://github.com/JustGlowing/minisom).
+SOMs are implemented using the minisom package (https://github.com/JustGlowing/minisom).
 
-A significant number of Python packages are used so it is recommended that a virtual environment like _Anaconda_ is used. A YAML file (environment.yaml) is provided in the repository to help with the construction of an approprate environment. The appropriate environment can thenbe created with the command _conda env create -f environment.yml_
+A significant number of Python packages are used so it is recommended that a virtual environment like _Anaconda_ is used. A YAML file (environment.yaml) is provided in the repository to help with the construction of an appropriate environment. The appropriate environment can then be created with the command _conda env create -f environment.yml_
 
 
 
